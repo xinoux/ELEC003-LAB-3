@@ -1,0 +1,10 @@
+C:\Users\annex_comlab\source\repos\CashierApplication\CashierApplication\bin\Release\CashierApplication.exe.config
+C:\Users\annex_comlab\source\repos\CashierApplication\CashierApplication\bin\Release\CashierApplication.exe
+C:\Users\annex_comlab\source\repos\CashierApplication\CashierApplication\bin\Release\CashierApplication.pdb
+C:\Users\annex_comlab\source\repos\CashierApplication\CashierApplication\obj\Release\CashierApplication.csprojAssemblyReference.cache
+C:\Users\annex_comlab\source\repos\CashierApplication\CashierApplication\obj\Release\CashierApplication.Form1.resources
+C:\Users\annex_comlab\source\repos\CashierApplication\CashierApplication\obj\Release\CashierApplication.Properties.Resources.resources
+C:\Users\annex_comlab\source\repos\CashierApplication\CashierApplication\obj\Release\CashierApplication.csproj.GenerateResource.cache
+C:\Users\annex_comlab\source\repos\CashierApplication\CashierApplication\obj\Release\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\annex_comlab\source\repos\CashierApplication\CashierApplication\obj\Release\CashierApplication.exe
+C:\Users\annex_comlab\source\repos\CashierApplication\CashierApplication\obj\Release\CashierApplication.pdb
